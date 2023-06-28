@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "key": "Settings",
+            "value": "Settings"
+        },
+        {
+            "key": "Languages",
+            "value": "Language"
+        },
+        {
+            "key": "ScreenSize",
+            "value": "Screen resolution"
+        },
+        {
+            "key": "FullScreen",
+            "value": " Full Screen"
+        },
+        {
+            "key": "Graphics",
+            "value": "Graphics"
+        },
+        {
+            "key": "Audio",
+            "value": "Audio"
+        }
+    ]
+}

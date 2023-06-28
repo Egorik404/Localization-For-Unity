@@ -1,0 +1,6 @@
+{
+	"MAINMENU_BUTTON_1":"Hello!",
+	"MAINMENU_TITLE":"Greetings!",
+	"MAINMENU_BUTTON_LANGUAGE":"English",
+	"MAINMENU_BUTTON_RESET":"Reset Preferences"
+}

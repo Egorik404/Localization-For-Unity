@@ -1,0 +1,28 @@
+﻿{
+    "items": [
+        {
+            "key": "Settings",
+            "value": "Ayarlar"
+        },
+        {
+            "key": "Languages",
+            "value": "Dil"
+        },
+        {
+            "key": "ScreenSize",
+            "value": "Ekran çözünürlüğü"
+        },
+        {
+            "key": "FullScreen",
+            "value": " Tam ekran modu"
+        },
+        {
+            "key": "Graphics",
+            "value": "Grafik"
+        },
+        {
+            "key": "Audio",
+            "value": "Ses"
+        }
+    ]
+}

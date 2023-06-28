@@ -1,0 +1,28 @@
+﻿{
+    "items": [
+        {
+            "key": "Settings",
+            "value": "Настройки"
+        },
+        {
+            "key": "Languages",
+            "value": "Язык"
+        },
+        {
+            "key": "ScreenSize",
+            "value": "Разрешение экрана"
+        },
+        {
+            "key": "FullScreen",
+            "value": " Полноэкранный режим"
+        },
+        {
+            "key": "Graphics",
+            "value": "Графика"
+        },
+        {
+            "key": "Audio",
+            "value": "Аудио"
+        }
+    ]
+}
